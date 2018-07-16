@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image4]: ./image_4.jpg
 [image5]: ./image_5.jpg
 [image6]: ./plot.jpg
-[image7]: ./plot2.
+[image7]: ./plot2.png
 
 ---
 ### Writeup / README
