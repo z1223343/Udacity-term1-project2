@@ -90,8 +90,10 @@ To train the model, I used:
 #### 4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93.
 
 My final model results were:
-* validation set accuracy of 0.954
-* test set accuracy of 0.937
+
+* training set accuracy of 0.996
+* validation set accuracy of 0.957
+* test set accuracy of 0.938
 
 I chose LeNet CNN model as the architecture.
 * In the LeNet Lab project, it works pretty well with the recognition of 10 digits using MNIST data set, so it should be applicable to traffic sign recognition in this project.
