@@ -1,4 +1,4 @@
-# ** Project2: Traffic Sign Recognition** 
+# **Project 2: Traffic Sign Recognition** 
 
 **Build a Traffic Sign Recognition**
 
